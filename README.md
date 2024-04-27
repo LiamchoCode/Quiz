@@ -1,2 +1,2 @@
 # Quiz
-Aplicación web que tendrá varios test o quiz de diferentes temas, contará con login para que los usuarios se registren y tengan su registro de puntuaciones, aparte habrá un CRUD para agregar o eliminar un test (Solo lo podrá hacer el admin)
+Hola! Tuve algunos problemas se subir mi proyecto a este repositorio =(. Es la primera vez que uso Github, pero aquí deja la URL donde esta mi proyecto, una disculpa
